@@ -1,3 +1,4 @@
+# Diagnostic script verifying dataset integrity, missing values, and feature schemas for classification pipelines.
 """
 DATASET DIAGNOSTIC TOOL
 =======================

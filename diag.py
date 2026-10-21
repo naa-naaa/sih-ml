@@ -1,3 +1,4 @@
+# Diagnostics and exploratory data analysis script inspecting raw groundwater level, rainfall, and evapotranspiration records.
 import pandas as pd
 
 # Load your 3 CSVs

@@ -1,3 +1,4 @@
+<!-- Comprehensive technical audit and performance summary report across forecasting, recharge estimation, and classification pipelines. -->
 # SIH Groundwater ML Project: Model Performance Showcase & Audit Report
 **Prepared for ML Technical Team Review**  
 **Repository:** `https://github.com/naa-naaa/sih-ml`  

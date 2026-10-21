@@ -1,0 +1,1 @@
+# Python package dependencies and environment requirements for the SIH groundwater machine learning repository.

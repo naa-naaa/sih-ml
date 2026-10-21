@@ -1,3 +1,4 @@
+# Visualizes and exports trained Decision Tree architecture and feature split rules for aquifer classification.
 from sklearn.tree import plot_tree
 import matplotlib.pyplot as plt
 import pickle

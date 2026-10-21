@@ -1,3 +1,4 @@
+# Balanced Random Forest and Decision Tree pipeline with SMOTE resampling for aquifer status classification.
 """
 RETRAIN MODEL WITH BALANCED LABELS
 ===================================

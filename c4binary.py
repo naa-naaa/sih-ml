@@ -1,3 +1,4 @@
+# Implements Stratified 5-Fold cross-validation for binary (At-Risk vs Safe) aquifer vulnerability classification using Random Forest.
 """
 BINARY CLASSIFICATION: SAFE vs AT-RISK
 =======================================

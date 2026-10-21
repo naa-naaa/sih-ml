@@ -1,3 +1,4 @@
+# Fits and evaluates ARIMA/SARIMA models with bias correction for daily groundwater level time-series forecasting.
 """
 Groundwater level forecasting with proper train/test split and evaluation metrics.
 """

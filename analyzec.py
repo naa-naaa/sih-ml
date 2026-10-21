@@ -1,3 +1,4 @@
+# Analyzes feature distributions, correlations, and class balance for groundwater assessment unit classification.
 """
 FIXING YOUR GROUNDWATER CLASSIFICATION
 ======================================

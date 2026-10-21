@@ -1,3 +1,4 @@
+# Interactive visualization dashboard presenting groundwater vulnerability classifications and risk metrics.
 """
 VISUALIZATION 1: DECISION SUPPORT DASHBOARD
 Shows: Real-world utility - What actions to take based on model predictions

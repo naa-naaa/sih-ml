@@ -1,3 +1,4 @@
+# Simulates and plots the impact of artificial recharge interventions on aquifer sustainability across scenarios.
 """
 VISUALIZATION 2: IMPACT SCENARIO ANALYSIS
 Shows: What happens with vs without AI-driven intervention

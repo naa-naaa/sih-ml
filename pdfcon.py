@@ -1,3 +1,4 @@
+# Utility script for compiling and converting evaluation summaries and visual figures into PDF documentation.
 import requests
 import PyPDF2
 import pandas as pd

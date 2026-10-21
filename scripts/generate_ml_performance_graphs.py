@@ -1,3 +1,4 @@
+# Generates reproducible presentation figures and metric evaluations across forecasting, recharge, and classification pipelines.
 """
 Groundwater ML Project - Performance Showcase Generator
 ======================================================

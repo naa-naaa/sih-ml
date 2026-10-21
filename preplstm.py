@@ -1,3 +1,4 @@
+# Prepares and sequences normalized sliding-window time-series data for LSTM training.
 import pandas as pd
 import numpy as np
 import warnings

@@ -1,3 +1,4 @@
+# Trains aquifer-specific Artificial Neural Networks (ANN) to predict water table depth and Water Table Fluctuation recharge proxies.
 """
 COMPLETE GROUNDWATER RECHARGE ESTIMATION MODEL - TRAINING PIPELINE
 Aquifer-Specific ANN for Daily Groundwater Data

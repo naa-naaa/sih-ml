@@ -1,3 +1,4 @@
+# Preprocesses and engineers lag and meteorological features from raw groundwater observation tables.
 import pandas as pd
 import numpy as np
 import warnings

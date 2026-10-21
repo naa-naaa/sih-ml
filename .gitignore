@@ -1,3 +1,4 @@
+# Git ignore configuration excluding Python bytecode, virtual environments, and temporary artifacts.
 __pycache__/
 *.py[cod]
 *$py.class

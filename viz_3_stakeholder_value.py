@@ -1,3 +1,4 @@
+# Computes and visualizes water security metrics, extraction thresholds, and stakeholder economic value.
 """
 VISUALIZATION 3: STAKEHOLDER VALUE DEMONSTRATION
 Shows: How different users (farmers, policymakers, water boards) use the system

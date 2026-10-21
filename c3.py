@@ -1,3 +1,4 @@
+# Trains and validates a multi-class Random Forest model for 3-tier (Critical, Semi-Critical, Safe) aquifer classification.
 """
 SIMPLE ML MODELS FOR SMALL DATASETS (23 samples)
 =================================================

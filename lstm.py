@@ -1,3 +1,4 @@
+# Multi-district LSTM recurrent neural network pipeline for sequential groundwater level time-series prediction.
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TF info/warning messages
 import pandas as pd
